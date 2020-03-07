@@ -9,3 +9,14 @@ $ git clone https://github.com/veasnawt/make.git
 $ cd make
 
 $ ./install.sh
+
+# How to use make
+
+$ make.<shape>
+  
+  Example: 
+  $ make.rounded_shape
+
+# Shapes available
+rounded_shape
+textlines
