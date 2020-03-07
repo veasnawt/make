@@ -15,9 +15,11 @@ $ ./install.sh
 $ make.entershapehere
   
   Example: 
-  $ make.rounded_shape
+  $ make.rounded-shape
 
 # Shapes available
-rounded_shape
+rounded-shape
 
 textlines
+
+circle
