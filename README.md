@@ -1,6 +1,6 @@
 # make
 
-# make helps you create shapes from xml file in a second
+# make helps you create shapes from xml file in a second using only command line
 
 # How to install make
 
