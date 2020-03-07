@@ -12,11 +12,12 @@ $ ./install.sh
 
 # How to use make
 
-$ make.<shape>
+$ make.<<shape>>
   
   Example: 
   $ make.rounded_shape
 
 # Shapes available
 rounded_shape
+
 textlines
