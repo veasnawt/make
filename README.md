@@ -12,7 +12,7 @@ $ ./install.sh
 
 # How to use make
 
-$ make.<<shape>>
+$ make.entershapehere
   
   Example: 
   $ make.rounded_shape
