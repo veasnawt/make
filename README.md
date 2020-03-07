@@ -1,9 +1,5 @@
 # make
 
-# Screenshot
-
-![Screenshot](/images/screenshot.jpg)
-
 # make helps you create shapes from xml file in a second using only command line
 
 # How to install make
@@ -20,6 +16,10 @@ $ make.entershapehere
   
   Example: 
   $ make.rounded-shape
+  
+# Screenshot
+
+![Screenshot](/images/screenshot.jpg)
 
 # Shapes available
 rounded-shape
