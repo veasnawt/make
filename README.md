@@ -4,8 +4,8 @@
 
 # How to install make
 
-git clone https://github.com/veasnawt/make.git
+$ git clone https://github.com/veasnawt/make.git
 
-cd make
+$ cd make
 
-./install.sh
+$ ./install.sh
