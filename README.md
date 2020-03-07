@@ -1,5 +1,10 @@
 # make
 
+# Screenshot
+
+![Screenshot](/images/screenshot.jpg)
+Format: ![Alt Text](url)
+
 # make helps you create shapes from xml file in a second using only command line
 
 # How to install make
