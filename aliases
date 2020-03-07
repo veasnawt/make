@@ -1,4 +1,6 @@
 #MAKE ALIASES
 alias make.rounded-shape='cd app/src/main/res/drawable && cp ~/make/shapes/rounded_shape.xml . && cd ../../../../../'
 alias make.textlines='cd app/src/main/res/drawable && cp ~/make/shapes/textlines.xml . && cd ../../../../../'
+alias make.circle='cd app/src/main/res/drawable && cp ~/make/shapes/circle.xml . && cd ../../../../../'
+
 
