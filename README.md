@@ -21,3 +21,5 @@ $ make.entershapehere
 rounded_shape
 
 textlines
+
+circle
