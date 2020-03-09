@@ -3,6 +3,6 @@ alias make.rounded-shape='cd app/src/main/res/drawable && cp ~/make/shapes/round
 alias make.textlines='cd app/src/main/res/drawable && cp ~/make/shapes/textlines.xml . && cd ../../../../../'
 alias make.circle='cd app/src/main/res/drawable && cp ~/make/shapes/circle.xml . && cd ../../../../../'
 alias make.heart='cd app/src/main/res/drawable && cp ~/make/shapes/heart.xml . && cd ../../../../../'
-alias make.circle-sharp-bottom-right='cd app/src/main/res/drawable && cp ~/make/shapes/circle-sharp-bottom-right.xml . && cd ../../../../../'
+alias make.circle-sharp-bottom-right='cd app/src/main/res/drawable && cp ~/make/shapes/circle_sharp_bottom_right.xml . && cd ../../../../../'
 
 
