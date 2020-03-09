@@ -29,4 +29,6 @@ textlines
 
 circle
 
+circle-sharp-bottom-right
+
 heart
